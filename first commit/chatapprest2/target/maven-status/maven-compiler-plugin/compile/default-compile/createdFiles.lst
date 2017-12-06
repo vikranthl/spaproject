@@ -1,0 +1,5 @@
+com\person\entity\User.class
+com\person\rest\UserController.class
+com\person\config\ApplicationContextConfig.class
+com\person\DAO\UserDAO.class
+com\person\DAO\UserDAOImpl.class
